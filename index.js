@@ -1,5 +1,3 @@
-var sso_login_url = 'https://accounts.google.com/o/saml2/idp?idpid=C01azsa84';
-var sso_logout_url = 'https://accounts.google.com/o/saml2/idp?idpid=C01azsa84';
 var sp_domain = 'samlsp.desmaximus.com';
 var saml2 = require('saml2-js');
 var fs = require('fs');
